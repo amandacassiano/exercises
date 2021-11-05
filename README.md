@@ -1,2 +1,2 @@
-# javabasics
+# javastudies
 ☕ Java Course

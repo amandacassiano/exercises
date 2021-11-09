@@ -1,2 +1,2 @@
 # javastudies
-☕ Java Course
+☕ Java Course Basic to Advanced

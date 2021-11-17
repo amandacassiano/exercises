@@ -1,6 +1,6 @@
 # javaexercises1
-☕ Java Courses Exercises
+☕ Java Basic to Advanced Exercises
 
-Repository created to organize my basic to advanced Java mathematical exercises
+Repository created to organize some basic mathematical exercises in java
 
 
